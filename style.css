@@ -1,0 +1,220 @@
+style.css
+
+body {
+	color: rgb(30,30,30);
+	text-align: center;
+	background-color: #5b8a72;
+	}
+
+.pdp {
+	text-align: center;
+	width: 150px;
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+.INTRO {
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	padding: 10px;
+	font-weight: 375;
+	background-color: #4a47a3;
+	margin: 30px;
+	color: white;
+	text-align: center;
+}
+
+.CONTACT {
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	padding: 10px;
+	font-weight: 375;
+	background-color: #4a47a3;
+	margin: 30px;
+	color: white;
+	text-align: center;
+}
+
+.LISTECONTACT {	
+	list-style: none;
+	padding-left: 0px;
+	background-color: #4a47a3;
+	border-radius: 4px;
+	color: white;
+}
+
+.LISTECONTACT li {
+	display: inline;
+	padding: 0px;
+	list-style: none;
+}
+
+.LISTECONTACT i {
+	font-size: 50px;
+	color: white;
+	padding: 30px;
+	list-style: none;
+}
+
+.mail {
+	font-family: Montserrat;
+	font-weight: 200;
+	text-align: center;
+	color: white;
+}
+
+.tel {
+	font-family: Montserrat;
+	font-weight: 200;
+	text-align: center;
+	color: white;
+}
+
+.FORMATIONS {
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	padding: 10px;
+	font-weight: 375;
+	background-color: #4a47a3;
+	margin: 30px;
+	color: white;
+	text-align: center;
+}
+
+.IESEG {
+	width: 150px;
+}
+
+.LEWAGON {
+	width: 150px;
+}
+
+.UPARIS {
+	width: 150px;
+}
+
+.EXPERIENCE {
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	padding: 10px;
+	font-weight: 375;
+	background-color: #4a47a3;
+	margin: 30px;
+	color: white;
+	text-align: center;
+}
+
+
+.BNPP {
+	width: 200px;
+}
+
+.FNACDARTY {
+	width: 150px;
+}
+
+.CENTRES {
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	padding: 10px;
+	font-weight: 375;
+	background-color: #4a47a3;
+	margin: 30px;
+	color: white;
+	text-align: center;
+}
+
+.LANGUES {
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	padding: 10px;
+	font-weight: 375;
+	background-color: #4a47a3;
+	margin: 30px;
+	color: white;
+}
+
+.LISTELANGUES {
+	list-style: none;
+	font-family: Montserrat;
+	font-weight: 200;
+}
+
+.LISTELANGUES li {
+	display: inline;
+	padding: 0px;
+}
+
+.FRANCE {
+	width: 80px;
+	border-radius: 10px;
+	border: 5px solid black;
+}
+
+.ANGLAIS {
+	width: 80px;
+	border-radius: 10px;
+	border: 5px solid black;
+}
+
+.ALLEMAGNE {
+	width: 80px;
+	border-radius: 10px;
+	border: 5px solid black;
+}
+
+.AUTRESCOMPETENCES {
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	padding: 10px;
+	font-weight: 375;
+	background-color: #4a47a3;
+	margin: 30px;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-family: Montserrat;
+	font-weight: 300;
+	text-align: center;
+}
+
+h2 {
+	font-family: Montserrat;
+	font-weight: 300;	
+	text-align: center;
+}
+
+h3 	{
+	font-family: Montserrat;
+	font-weight: 300;
+	font-size: 25px;
+	}
+
+h4 	{
+	font-family: Montserrat;
+	font-weight: 600;
+	color: black;
+	font-size: 20px;
+	}
+
+p 	{
+	font-family: Montserrat;
+	font-weight: 200;
+	text-align: center;
+	font-size: 20px;
+}
+
+a:hover {
+	color: black;
+}
+
+i:hover {
+	color: black;
+}
+
+.container {
+	width: 1000px;
+	margin: 40px auto;
+}
